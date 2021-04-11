@@ -1,11 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "aircon/get_control_info": "ret=OK,pow=0,mode=4,adv=,stemp=11.5,shum=0,dt1=25.0,dt2=M,dt3=25.0,dt4=11.5,dt5=11.5,dt7=25.0,dh1=AUTO,dh2=50,dh3=0,dh4=0,dh5=0,dh7=AUTO,dhh=50,b_mode=4,b_stemp=11.5,b_shum=0,alert=255,f_rate=7,f_dir=0,b_f_rate=7,b_f_dir=0,dfr1=5,dfr2=5,dfr3=5,dfr4=7,dfr5=7,dfr6=5,dfr7=5,dfrh=5,dfd1=0,dfd2=0,dfd3=0,dfd4=0,dfd5=0,dfd6=0,dfd7=0,dfdh=0,dmnd_run=0,en_demand=0",
+  "aircon/get_sensor_info": "ret=OK,htemp=15.0,hhum=-,otemp=13.0,err=0,cmpfreq=0,mompow=1"
 }
